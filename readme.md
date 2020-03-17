@@ -2,7 +2,7 @@
 
 Because macOS kinda sucks, and I needed to be able to bring over some of my Windows and Linux workflow
 
-I never figured out how Karabiner decides to read these files--I tried putting in my own random numbers, but they didn't work if I recall correctly, so in the end I just ended up using one imported from the official repo and then modifying them. Not sure what julie.json used to be, scroll.json is a modified version of ["Change Mouse Motion to Scroll (Rev 2)](https://ke-complex-modifications.pqrs.org/#mouse_motion_to_scroll)
+I never figured out how Karabiner decides to read these files--I tried putting in my own random numbers, but they didn't work if I recall correctly, so in the end I just ended up using one imported from the official repo and then modifying them. Not sure what julie.json used to be, scroll.json is a modified version of ["Change Mouse Motion to Scroll (Rev 2)"](https://ke-complex-modifications.pqrs.org/#mouse_motion_to_scroll)
 
 ## julie.json
 
@@ -38,4 +38,4 @@ Took this from a set on the main repo. I merged it into this file because it jus
 
 ## scroll.json
 
-This is modified from the ["Change Mouse Motion to Scroll (Rev 2)](https://ke-complex-modifications.pqrs.org/#mouse_motion_to_scroll) modification. I was ECSTATIC to learn that this was a usable option, it was one of the things I missed the most from Windows. However, once I did use it, it broke my ability to use `Mouse3` as a middle-click to open links in new tabs. This fixes that. 
+This is modified from the ["Change Mouse Motion to Scroll (Rev 2)"](https://ke-complex-modifications.pqrs.org/#mouse_motion_to_scroll) modification. I was ECSTATIC to learn that this was a usable option, it was one of the things I missed the most from Windows. However, once I did use it, it broke my ability to use `Mouse3` as a middle-click to open links in new tabs. This fixes that. 
