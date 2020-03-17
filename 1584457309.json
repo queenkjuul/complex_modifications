@@ -1,11 +1,11 @@
 {
-  "title": "Change mouse motion to scroll (rev 2)",
+  "title": "Change mouse motion to scroll (Julie's Mods)",
   "maintainers": [
     "tekezo"
   ],
   "rules": [
     {
-      "description": "Change button3 + mouse motion to scroll wheel (rev 1)",
+      "description": "Change button3 + mouse motion to scroll wheel (hold)",
       "available_since": "12.3.0",
       "manipulators": [
         {
