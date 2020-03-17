@@ -1,8 +1,12 @@
 # complex_modifications (Karabiner-Elements)
 
+Because macOS kinda sucks, and I needed to be able to bring over some of my Windows and Linux workflow
+
+I never figured out how Karabiner decides to read these files--I tried putting in my own random numbers, but they didn't work if I recall correctly, so in the end I just ended up using one imported from the official repo and then modifying them. Not sure what julie.json used to be, scroll.json is a modified version of ["Change Mouse Motion to Scroll (Rev 2)](https://ke-complex-modifications.pqrs.org/#mouse_motion_to_scroll)
+
 ## julie.json
 
-all of my custom modifications for Karabiner-Elements that I mostly wrote myself, but borrowed some of the code from existing sets in the Karabiner repo. Because macOS kinda sucks, and I needed to be able to bring over some of my Windows and Linux workflow
+all of my custom modifications for Karabiner-Elements that I mostly wrote myself, but borrowed some of the code from existing sets in the Karabiner repo. 
 
 ### Shift+Delete
 
